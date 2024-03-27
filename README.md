@@ -23,5 +23,8 @@ Interaja com o NPC (Senhor logo acima de quando você começar o jogo). Ele lhe 
 No canto inferior esquerdo do mapa, você encontrará monstros. Ataque-os para evoluir seu poder e nível. Ao derrotar todos, você pode fazê-los renascer ao ativar as poções no lugar onde você começou o jogo.
 
 ---
+## Link para Download do .jar sem as telas de login e registre-se
+https://drive.google.com/file/d/1G0uxbxhMaD-T6itXF3n3WsnvqIAN5Qii/view?usp=drive_link
+
 
 *Obrigado por jogar! Qualquer feedback é muito apreciado.*
