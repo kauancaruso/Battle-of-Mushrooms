@@ -4,11 +4,10 @@ Bem-vindo ao meu jogo em desenvolvimento! Aqui estão algumas informações impo
 
 ## Como Jogar
 
-- **Para Andar:**
-  - W: Para cima
-  - S: Para baixo
-  - A: Para a esquerda
-  - D: Para a direita
+- W: Para cima
+- S: Para baixo
+- A: Para a esquerda
+- D: Para a direita
 
 ## Comandos do Jogo
 
