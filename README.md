@@ -2,14 +2,12 @@
 
 Bem-vindo ao meu jogo em desenvolvimento! Aqui estão algumas informações importantes para começar:
 
-## Como Jogar
+## Comandos do Jogo
 
 - W: Para cima
 - S: Para baixo
 - A: Para a esquerda
 - D: Para a direita
-
-## Comandos do Jogo
 
 - C: Visualizar status do jogador
 - P: Pausar o jogo
